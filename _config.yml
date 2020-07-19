@@ -1,6 +1,6 @@
-theme: jekyll-theme-architect
+# theme: jekyll-theme-minimal
 # Build settings
-# markdown: kramdown
-# theme: minima
-# plugins:
-#   - jekyll-feed
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
