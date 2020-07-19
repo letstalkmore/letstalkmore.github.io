@@ -1,5 +1,5 @@
-[Mundana](https://letstalkmore.github.io/mundana-theme-jekyll/)
+[Mundana](https://letstalkmore.github.io/mundana/)
 
-[Mediumish](https://letstalkmore.github.io/mediumish-theme-jekyll)
+[Mediumish](https://letstalkmore.github.io/mediumish/)
 
-[Memoirs](https://letstalkmore.github.io/jekyll-theme-memoirs/)
+[Memoirs](https://letstalkmore.github.io/jekyll/)
